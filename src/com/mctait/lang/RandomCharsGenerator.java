@@ -4,10 +4,10 @@ import java.util.Random;
 
 public class RandomCharsGenerator {
 	
-	public final int MIN_DELAY = 100;
-	public final int MAX_DELAY = 2000;
+	public final int MIN_DELAY = 10;
+	public final int MAX_DELAY = 2 * 1000;
 	public final int MIN_NUM_CHARS = 10;
-	public final int MAX_NUM_CHARS = 100;
+	public final int MAX_NUM_CHARS = 250;
 	public final char startCharRange = '\u1200';
 	public final char endCharRange = '\u1375';
 	//
