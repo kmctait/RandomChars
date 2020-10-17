@@ -11,7 +11,7 @@ The length, delay and character set are hardcoded at the moment for ease of exec
 
 ## Running the package
 
-The packaged Jar file is run without arguments:
+The packaged JAR file is run without arguments:
 
 ```bash
 java -jar RandomChars.jar
