@@ -9,9 +9,9 @@ For a quick guide on character sets, see click [here](http://jrgraphix.net/resea
 
 The length, delay and character set are hardcoded at the moment for ease of execution.
 
-## Running the pacakge
+## Running the package
 
-The packaged Jar file is run without arguments:
+The packaged JAR file is run without arguments:
 
 ```bash
 java -jar RandomChars.jar
